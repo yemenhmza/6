@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1071242849175-mvlk456d7s63g1gl9g613qu3445lldbo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1071242849175-mvlk456d7s63g1gl9g613qu3445lldbo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCABnHoyLvJe-4Vw11H8uBXCdhIZuVc5ZA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1071242849175</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.u6amtech.flutterRestaurant</string>
+	<key>PROJECT_ID</key>
+	<string>foodrad-5ed17</string>
+	<key>STORAGE_BUCKET</key>
+	<string>foodrad-5ed17.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1071242849175:ios:385f3c54585039f32cf2d2</string>
+	<key>DATABASE_URL</key>
+	<string>https://foodrad-5ed17-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

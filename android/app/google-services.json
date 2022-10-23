@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "946222226168",
+    "project_id": "rad-deleviry",
+    "storage_bucket": "rad-deleviry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946222226168:android:c70493f3b545c90493b90d",
+        "android_client_info": {
+          "package_name": "com.radfood.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946222226168-9kj4epus6ri5k96phs5bm4ibscp0qf0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQQj5V4owKgUkNnb0Til4yrYkGzAojyWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946222226168-9kj4epus6ri5k96phs5bm4ibscp0qf0m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "946222226168-j0pu8ake6lrpqn4jgfnt4f8eqg8nne1j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.u6amtech.flutterRestaurant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
